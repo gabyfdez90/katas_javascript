@@ -3,7 +3,7 @@
 
 let notasEstudiantes = {
   Harry: 81,
-  Ron: 78,
+  Ron: 49,
   Hermione: 99,
   Draco: 74,
   Neville: 62,
@@ -15,6 +15,10 @@ let notasEstudiantes = {
 // Para ello, obtenemos dos arrays (clave y valor) a partir del objeto.
 let conversionCalificaciones = Object.values(notasEstudiantes);
 let listaEstudiantes = Object.keys(notasEstudiantes);
+
+console.log(conversionCalificaciones);
+console.log(" ");
+console.log(listaEstudiantes);
 
 // Luego, iteramos por uno de los arrays para imprimir una cadena que incluye el estudiante y su nota.
 

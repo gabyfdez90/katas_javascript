@@ -73,10 +73,10 @@ function esPalindromo3(palabra) {
 // Comprobamos respuestas
 
 // Nivel 1 (debe retornar True)
-console.log("reconocer");
+console.log(esPalindromo1("reconocer"));
 
 // Nivel 2 (debe retornar True)
-console.log("a luna ese anula");
+console.log(esPalindromo2("a luna ese anula"));
 
 // Nivel 3 (debe retornar True)
-console.log("A Luna ese anula");
+console.log(esPalindromo3("A Luna ese anula"));
