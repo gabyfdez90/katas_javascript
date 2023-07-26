@@ -46,7 +46,7 @@ function esPalindromo2(palabra) {
 // Respuesta: NIVEL 3
 
 function esPalindromo3(palabra) {
-  palabraFormateada = palabra.toLowerCase();
+  let palabraFormateada = palabra.toLowerCase();
   let punteroIzquierdo = 0;
   let punteroDerecho = palabra.length - 1;
 
