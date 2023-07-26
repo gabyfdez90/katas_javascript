@@ -16,10 +16,6 @@ let notasEstudiantes = {
 let conversionCalificaciones = Object.values(notasEstudiantes);
 let listaEstudiantes = Object.keys(notasEstudiantes);
 
-console.log(conversionCalificaciones);
-console.log(" ");
-console.log(listaEstudiantes);
-
 // Luego, iteramos por uno de los arrays para imprimir una cadena que incluye el estudiante y su nota.
 
 for (let i = 0; i < conversionCalificaciones.length; i++) {
