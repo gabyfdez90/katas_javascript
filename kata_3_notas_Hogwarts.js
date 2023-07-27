@@ -2,11 +2,11 @@
 // Dado este objeto:
 
 let notasEstudiantes = {
-  Harry: 81,
-  Ron: 49,
+  Harry: 86,
+  Ron: 47,
   Hermione: 99,
-  Draco: 74,
-  Neville: 62,
+  Draco: 72,
+  Neville: 65,
 };
 
 // Convierte las notas numéricas de los estudiantes de Hogwarts en su nomenclatura habitual empleada en la saga:

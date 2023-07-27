@@ -79,4 +79,4 @@ console.log(esPalindromo1("reconocer"));
 console.log(esPalindromo2("a luna ese anula"));
 
 // Nivel 3 (debe retornar True)
-console.log(esPalindromo3("A Luna ese anula"));
+console.log(esPalindromo3("A Lunatico ese anula"));
